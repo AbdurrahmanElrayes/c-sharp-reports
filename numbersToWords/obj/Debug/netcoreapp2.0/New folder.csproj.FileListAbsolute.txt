@@ -1,0 +1,20 @@
+C:\Users\Elrayes\Desktop\New folder\bin\Debug\netcoreapp2.0\New folder.deps.json
+C:\Users\Elrayes\Desktop\New folder\bin\Debug\netcoreapp2.0\New folder.runtimeconfig.json
+C:\Users\Elrayes\Desktop\New folder\bin\Debug\netcoreapp2.0\New folder.runtimeconfig.dev.json
+C:\Users\Elrayes\Desktop\New folder\bin\Debug\netcoreapp2.0\New folder.dll
+C:\Users\Elrayes\Desktop\New folder\bin\Debug\netcoreapp2.0\New folder.pdb
+C:\Users\Elrayes\Desktop\New folder\obj\Debug\netcoreapp2.0\New folder.csproj.CoreCompileInputs.cache
+C:\Users\Elrayes\Desktop\New folder\obj\Debug\netcoreapp2.0\New folder.AssemblyInfoInputs.cache
+C:\Users\Elrayes\Desktop\New folder\obj\Debug\netcoreapp2.0\New folder.AssemblyInfo.cs
+C:\Users\Elrayes\Desktop\New folder\obj\Debug\netcoreapp2.0\New folder.dll
+C:\Users\Elrayes\Desktop\New folder\obj\Debug\netcoreapp2.0\New folder.pdb
+C:\Users\Elrayes\Desktop\c#_reports\numbersToWords\bin\Debug\netcoreapp2.0\New folder.deps.json
+C:\Users\Elrayes\Desktop\c#_reports\numbersToWords\bin\Debug\netcoreapp2.0\New folder.runtimeconfig.json
+C:\Users\Elrayes\Desktop\c#_reports\numbersToWords\bin\Debug\netcoreapp2.0\New folder.runtimeconfig.dev.json
+C:\Users\Elrayes\Desktop\c#_reports\numbersToWords\bin\Debug\netcoreapp2.0\New folder.dll
+C:\Users\Elrayes\Desktop\c#_reports\numbersToWords\bin\Debug\netcoreapp2.0\New folder.pdb
+C:\Users\Elrayes\Desktop\c#_reports\numbersToWords\obj\Debug\netcoreapp2.0\New folder.csproj.CoreCompileInputs.cache
+C:\Users\Elrayes\Desktop\c#_reports\numbersToWords\obj\Debug\netcoreapp2.0\New folder.AssemblyInfoInputs.cache
+C:\Users\Elrayes\Desktop\c#_reports\numbersToWords\obj\Debug\netcoreapp2.0\New folder.AssemblyInfo.cs
+C:\Users\Elrayes\Desktop\c#_reports\numbersToWords\obj\Debug\netcoreapp2.0\New folder.dll
+C:\Users\Elrayes\Desktop\c#_reports\numbersToWords\obj\Debug\netcoreapp2.0\New folder.pdb

@@ -1,0 +1,10 @@
+C:\Users\Elrayes\Desktop\c#_reports\convertHEXtoD\bin\Debug\netcoreapp2.0\convertHEXtoD.deps.json
+C:\Users\Elrayes\Desktop\c#_reports\convertHEXtoD\bin\Debug\netcoreapp2.0\convertHEXtoD.runtimeconfig.json
+C:\Users\Elrayes\Desktop\c#_reports\convertHEXtoD\bin\Debug\netcoreapp2.0\convertHEXtoD.runtimeconfig.dev.json
+C:\Users\Elrayes\Desktop\c#_reports\convertHEXtoD\bin\Debug\netcoreapp2.0\convertHEXtoD.dll
+C:\Users\Elrayes\Desktop\c#_reports\convertHEXtoD\bin\Debug\netcoreapp2.0\convertHEXtoD.pdb
+C:\Users\Elrayes\Desktop\c#_reports\convertHEXtoD\obj\Debug\netcoreapp2.0\convertHEXtoD.csproj.CoreCompileInputs.cache
+C:\Users\Elrayes\Desktop\c#_reports\convertHEXtoD\obj\Debug\netcoreapp2.0\convertHEXtoD.AssemblyInfoInputs.cache
+C:\Users\Elrayes\Desktop\c#_reports\convertHEXtoD\obj\Debug\netcoreapp2.0\convertHEXtoD.AssemblyInfo.cs
+C:\Users\Elrayes\Desktop\c#_reports\convertHEXtoD\obj\Debug\netcoreapp2.0\convertHEXtoD.dll
+C:\Users\Elrayes\Desktop\c#_reports\convertHEXtoD\obj\Debug\netcoreapp2.0\convertHEXtoD.pdb
