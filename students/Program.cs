@@ -34,7 +34,15 @@ namespace students
             if(s==1){
                     Console.WriteLine("please enter the student name");
                     string a = Console.ReadLine();
+                    bool z= false;
+                    foreach(var name in students){
+                        if (a == name.Key)
+                        z = true;
+                    }
+                    if(z==true)
                     Console.WriteLine("student name: "+a+"\nstudent degree: "+students[a]);
+                    else
+                    Console.WriteLine("student not found");
             }else if(s==2){
                  Console.WriteLine("top student is: "+topStudet(students));
             }else if (s==3){
@@ -52,6 +60,7 @@ namespace students
                     Console.WriteLine("Enter the new name");
                 students.Add(Console.ReadLine(), v);
                 }else {
+                    Console.WriteLine("student not found");
                     goto aaa;
                 }
             }else{
