@@ -1,0 +1,10 @@
+C:\Users\Elrayes\Desktop\c#_reports\students\obj\Debug\netcoreapp2.0\students.csproj.CoreCompileInputs.cache
+C:\Users\Elrayes\Desktop\c#_reports\students\obj\Debug\netcoreapp2.0\students.AssemblyInfoInputs.cache
+C:\Users\Elrayes\Desktop\c#_reports\students\obj\Debug\netcoreapp2.0\students.AssemblyInfo.cs
+C:\Users\Elrayes\Desktop\c#_reports\students\bin\Debug\netcoreapp2.0\students.deps.json
+C:\Users\Elrayes\Desktop\c#_reports\students\bin\Debug\netcoreapp2.0\students.runtimeconfig.json
+C:\Users\Elrayes\Desktop\c#_reports\students\bin\Debug\netcoreapp2.0\students.runtimeconfig.dev.json
+C:\Users\Elrayes\Desktop\c#_reports\students\bin\Debug\netcoreapp2.0\students.dll
+C:\Users\Elrayes\Desktop\c#_reports\students\bin\Debug\netcoreapp2.0\students.pdb
+C:\Users\Elrayes\Desktop\c#_reports\students\obj\Debug\netcoreapp2.0\students.dll
+C:\Users\Elrayes\Desktop\c#_reports\students\obj\Debug\netcoreapp2.0\students.pdb
