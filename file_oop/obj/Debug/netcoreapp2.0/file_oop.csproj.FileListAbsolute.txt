@@ -1,0 +1,10 @@
+C:\Users\Elrayes\Desktop\c#_reports\file_oop\bin\Debug\netcoreapp2.0\file_oop.deps.json
+C:\Users\Elrayes\Desktop\c#_reports\file_oop\bin\Debug\netcoreapp2.0\file_oop.runtimeconfig.json
+C:\Users\Elrayes\Desktop\c#_reports\file_oop\bin\Debug\netcoreapp2.0\file_oop.runtimeconfig.dev.json
+C:\Users\Elrayes\Desktop\c#_reports\file_oop\bin\Debug\netcoreapp2.0\file_oop.dll
+C:\Users\Elrayes\Desktop\c#_reports\file_oop\bin\Debug\netcoreapp2.0\file_oop.pdb
+C:\Users\Elrayes\Desktop\c#_reports\file_oop\obj\Debug\netcoreapp2.0\file_oop.csproj.CoreCompileInputs.cache
+C:\Users\Elrayes\Desktop\c#_reports\file_oop\obj\Debug\netcoreapp2.0\file_oop.AssemblyInfoInputs.cache
+C:\Users\Elrayes\Desktop\c#_reports\file_oop\obj\Debug\netcoreapp2.0\file_oop.AssemblyInfo.cs
+C:\Users\Elrayes\Desktop\c#_reports\file_oop\obj\Debug\netcoreapp2.0\file_oop.dll
+C:\Users\Elrayes\Desktop\c#_reports\file_oop\obj\Debug\netcoreapp2.0\file_oop.pdb
